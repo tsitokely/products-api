@@ -1,0 +1,241 @@
+[
+    {
+      "id": 1,
+      "name": "Apple iPhone 15 Pro Max",
+      "description": "Flagship smartphone with A17 Pro chip, 6.7-inch ProMotion display, and titanium design.",
+      "minPrice": 1199,
+      "category": "Electronics",
+      "stock": 85,
+      "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-15-pro-max.jpg",
+      "brand": "Apple",
+      "rating": 4.8,
+      "reviews": 2340,
+      "releaseDate": "2023-09-22",
+      "listings": [
+        { "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-max-blue-titanium-select-202309?wid=940&hei=1112&fmt=png-alpha", "vendor": "Apple Store", "price": 1199, "link": "https://www.apple.com/shop/buy-iphone/iphone-15-pro", "details": "Free shipping, 1-year warranty" },
+        { "imageUrl": "https://m.media-amazon.com/images/I/71zPhJFcwKL._AC_SX679_.jpg", "vendor": "Amazon", "price": 1189, "link": "https://www.amazon.com/Apple-iPhone-15-Pro-Max/dp/B0CHX1K2RC", "details": "Prime delivery" },
+        { "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6525/6525422_sd.jpg", "vendor": "Best Buy", "price": 1199, "link": "https://www.bestbuy.com/site/iphone-15-pro-max/", "details": "Store pickup available" },
+        { "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_5c0b5f95-5593-4f91-a204-48a6b24e40d2", "vendor": "Target", "price": 1199, "link": "https://www.target.com/p/apple-iphone-15-pro-max", "details": "RedCard 5% discount" },
+        { "imageUrl": "https://i5.walmartimages.com/asr/b3bf9bf7-5e5e-4907-b536-65bce40e7e4d.1b04a5e9bf84b84b5dcdd4c9c25f4f16.jpeg", "vendor": "Walmart", "price": 1195, "link": "https://www.walmart.com/ip/Apple-iPhone-15-Pro-Max", "details": "Extended warranty available" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S24 Ultra",
+      "description": "Premium Android smartphone with Snapdragon 8 Gen 3, 200MP camera, and S Pen stylus.",
+      "minPrice": 1299,
+      "category": "Electronics",
+      "stock": 120,
+      "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s24-ultra-5g.jpg",
+      "brand": "Samsung",
+      "rating": 4.7,
+      "reviews": 1876,
+      "releaseDate": "2024-01-31",
+      "listings": [
+        { "imageUrl": "https://image-us.samsung.com/us/smartphones/galaxy-s24-ultra/images/gallery/titanium-gray/FLRC-214-S24Ultra-Titanium-Gray-01-PDP-GALLERY-1600x1200.jpg", "vendor": "Samsung", "price": 1299, "link": "https://www.samsung.com/us/smartphones/galaxy-s24-ultra/", "details": "Trade-in offers available" },
+        { "imageUrl": "https://m.media-amazon.com/images/I/71EGRUiWJnL._AC_SX679_.jpg", "vendor": "Amazon", "price": 1249, "link": "https://www.amazon.com/Samsung-Galaxy-S24-Ultra/dp/B0CQPYTPLP", "details": "Free same-day delivery" },
+        { "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6584/6584773_sd.jpg", "vendor": "Best Buy", "price": 1299, "link": "https://www.bestbuy.com/site/samsung-galaxy-s24-ultra", "details": "$50 gift card with purchase" },
+        { "imageUrl": "https://i5.walmartimages.com/asr/06571535-2187-43e2-a293-847208d09a56.e809e999d8a5268bdd1972fbc076d3c1.jpeg", "vendor": "Walmart", "price": 1279, "link": "https://www.walmart.com/ip/Samsung-Galaxy-S24-Ultra", "details": "2-year protection plan available" },
+        { "imageUrl": "https://att.com/scmsassets/global/devices/phones/samsung/samsung-galaxy-s24-ultra/carousel/titanium-black/titanium-black-1.png", "vendor": "AT&T", "price": 1299, "link": "https://www.att.com/buy/phones/samsung-galaxy-s24-ultra", "details": "Available with monthly installments" },
+        { "imageUrl": "https://ss73.vzw.com/is/image/VerizonWireless/samsung-galaxy-s24-ultra-titanium-black-01", "vendor": "Verizon", "price": 1299, "link": "https://www.verizon.com/smartphones/samsung-galaxy-s24-ultra/", "details": "Unlimited plan discounts" },
+        { "imageUrl": "https://cdn.tmobile.com/content/dam/t-mobile/en-p/cell-phones/samsung/Samsung-Galaxy-S24-Ultra/Titanium-Gray/Samsung-Galaxy-S24-Ultra-Titanium-Gray-frontimage.png", "vendor": "T-Mobile", "price": 1299, "link": "https://www.t-mobile.com/cell-phone/samsung-galaxy-s24-ultra", "details": "24-month financing available" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Google Pixel 8 Pro",
+      "description": "Google flagship with Tensor G3 chip, advanced AI features, and exceptional camera system.",
+      "minPrice": 999,
+      "category": "Electronics",
+      "stock": 75,
+      "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-8-pro.jpg",
+      "brand": "Google",
+      "rating": 4.6,
+      "reviews": 1254,
+      "releaseDate": "2023-10-12",
+      "listings": [
+        { "imageUrl": "https://lh3.googleusercontent.com/spp/AE_ITi1K4Zmpj2Rn5rZ9j1atpSS5MSQTPgUXE93Y7x2ulK4zHMQgGYo3Q86U3_G4GE45UjEMnJVGlTOuMfBODY4byXJUb-wZ9QwbhTG99Z4zXQ9-gA=s1920-w1920-h1080", "vendor": "Google Store", "price": 999, "link": "https://store.google.com/product/pixel_8_pro", "details": "Free 2-day shipping" },
+        { "imageUrl": "https://m.media-amazon.com/images/I/71LbHn2zoCL._AC_SX679_.jpg", "vendor": "Amazon", "price": 949, "link": "https://www.amazon.com/Google-Pixel-Pro-Smartphone-Obsidian/dp/B0CHX3QBCH", "details": "Limited time discount" },
+        { "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6568/6568029_sd.jpg", "vendor": "Best Buy", "price": 999, "link": "https://www.bestbuy.com/site/google-pixel-8-pro", "details": "Google One subscription included" },
+        { "imageUrl": "https://i5.walmartimages.com/asr/b29f6ff9-8916-4156-9de2-45c38e6481b5.5a7d39f0c00f0d05613f27ab90c6a0a2.jpeg", "vendor": "Walmart", "price": 989, "link": "https://www.walmart.com/ip/Google-Pixel-8-Pro", "details": "Walmart+ free shipping" }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "OnePlus 12",
+      "description": "High-performance Android phone with Snapdragon 8 Gen 3, Hasselblad cameras, and 100W charging.",
+      "minPrice": 799,
+      "category": "Electronics",
+      "stock": 90,
+      "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-12.jpg",
+      "brand": "OnePlus",
+      "rating": 4.7,
+      "reviews": 965,
+      "releaseDate": "2024-01-23",
+      "listings": [
+        { "imageUrl": "https://image01.oneplus.net/ebp/202312/20/1-m00-51-7d-cpgm7mwderoan6teaaii2ld8j4i651.png", "vendor": "OnePlus", "price": 799, "link": "https://www.oneplus.com/oneplus-12", "details": "Free OnePlus Buds with purchase" },
+        { "imageUrl": "https://m.media-amazon.com/images/I/71zXIM1F0bL._AC_SX679_.jpg", "vendor": "Amazon", "price": 799, "link": "https://www.amazon.com/OnePlus-Snapdragon-Camera-Wireless-Charging/dp/B0CQNPQ9SC", "details": "6-month screen protection" },
+        { "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6570/6570546_sd.jpg", "vendor": "Best Buy", "price": 799, "link": "https://www.bestbuy.com/site/oneplus-12", "details": "Free case with purchase" }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Xiaomi 14 Ultra",
+      "description": "Premium photography-focused smartphone with Leica optics and Snapdragon 8 Gen 3.",
+      "minPrice": 1199,
+      "category": "Electronics",
+      "stock": 60,
+      "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-14-ultra.jpg",
+      "brand": "Xiaomi",
+      "rating": 4.6,
+      "reviews": 780,
+      "releaseDate": "2024-02-25",
+      "listings": [
+        { "imageUrl": "https://i02.appmifile.com/163_operator_sg/27/02/2024/972c5f7ebae6be92d2fe9b0815c6a642.png", "vendor": "Xiaomi", "price": 1199, "link": "https://www.mi.com/global/product/xiaomi-14-ultra/", "details": "Photography kit included" },
+        { "imageUrl": "https://m.media-amazon.com/images/I/61R7IfCGqCL._AC_SX679_.jpg", "vendor": "Amazon", "price": 1189, "link": "https://www.amazon.com/Xiaomi-14-Ultra-International-Version/dp/B0CSCVCTWK", "details": "International version" },
+        { "imageUrl": "https://gizmochina.com/wp-content/uploads/2023/10/Xiaomi-14-Ultra-1-500x500.jpg", "vendor": "AliExpress", "price": 1149, "link": "https://www.aliexpress.com/item/xiaomi-14-ultra", "details": "Free global shipping" },
+        { "imageUrl": "https://img.ebay-dl.com/xiaomi/14/ultra.jpg", "vendor": "eBay", "price": 1179, "link": "https://www.ebay.com/itm/xiaomi-14-ultra-global-version", "details": "Seller warranty" }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Nothing Phone (2)",
+      "description": "Unique Android smartphone with Glyph Interface, transparent design, and clean software.",
+      "minPrice": 699,
+      "category": "Electronics",
+      "stock": 45,
+      "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/nothing-phone-2.jpg",
+      "brand": "Nothing",
+      "rating": 4.4,
+      "reviews": 620,
+      "releaseDate": "2023-07-17",
+      "listings": [
+        { "imageUrl": "https://nothing.tech/cdn/shop/files/Phone-2a-Black-PDP-Black_700x.png", "vendor": "Nothing", "price": 699, "link": "https://nothing.tech/products/phone-2", "details": "Free case included" },
+        { "imageUrl": "https://m.media-amazon.com/images/I/712YlA8YpWL._AC_SX679_.jpg", "vendor": "Amazon", "price": 679, "link": "https://www.amazon.com/Nothing-Phone-Glyph-Interface-Unlocked/dp/B0C7BZJST7", "details": "Prime shipping available" },
+        { "imageUrl": "https://image.smythstoys.com/picture/desktop/197784.jpg", "vendor": "Best Buy", "price": 699, "link": "https://www.bestbuy.com/site/nothing-phone-2", "details": "Geek Squad protection available" }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Sony Xperia 1 V",
+      "description": "Professional-grade smartphone with 4K display, advanced camera features, and headphone jack.",
+      "minPrice": 1399,
+      "category": "Electronics",
+      "stock": 30,
+      "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-1-v.jpg",
+      "brand": "Sony",
+      "rating": 4.5,
+      "reviews": 415,
+      "releaseDate": "2023-07-24",
+      "listings": [
+        { "imageUrl": "https://electronics.sony.com/image/5d02da5c4e2b8d0001895610b1f7003f?fmt=png-alpha&wid=660&hei=660", "vendor": "Sony", "price": 1399, "link": "https://electronics.sony.com/mobile/smartphone/xperia/p/xqdc54-b", "details": "Free Sony headphones" },
+        { "imageUrl": "https://m.media-amazon.com/images/I/71jRXMDFCZL._AC_SX679_.jpg", "vendor": "Amazon", "price": 1379, "link": "https://www.amazon.com/Sony-Xperia-Full-Frame-Smartphone-XQ-DC54/dp/B0C58ZKNDT", "details": "Unlocked international version" },
+        { "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6548/6548218_sd.jpg", "vendor": "Best Buy", "price": 1399, "link": "https://www.bestbuy.com/site/sony-xperia-1-v", "details": "24-month financing available" },
+        { "imageUrl": "https://img.ebay-dl.com/sony/xperia/1v.jpg", "vendor": "eBay", "price": 1299, "link": "https://www.ebay.com/itm/sony-xperia-1-v-unlocked", "details": "Limited quantity available" },
+        { "imageUrl": "https://www.bhphotovideo.com/images/images2500x2500/sony_xperia_1_v_smartphone_1733268.jpg", "vendor": "B&H Photo", "price": 1399, "link": "https://www.bhphotovideo.com/c/product/1733268-REG/sony_xperia_1_v_smartphone.html", "details": "Free expedited shipping" }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Motorola Edge 40 Pro",
+      "description": "Flagship Motorola device with curved display, Snapdragon 8 Gen 2, and fast charging.",
+      "minPrice": 799,
+      "category": "Electronics",
+      "stock": 65,
+      "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/motorola-edge-40-pro.jpg",
+      "brand": "Motorola",
+      "rating": 4.3,
+      "reviews": 530,
+      "releaseDate": "2023-04-04",
+      "listings": [
+        { "imageUrl": "https://motorolaus.vtexassets.com/arquivos/ids/163647-800-auto", "vendor": "Motorola", "price": 799, "link": "https://www.motorola.com/us/smartphones-motorola-edge-40-pro", "details": "Ready to ship" },
+        { "imageUrl": "https://m.media-amazon.com/images/I/61B0+qQriPL._AC_SX679_.jpg", "vendor": "Amazon", "price": 779, "link": "https://www.amazon.com/Motorola-Unlocked-Android-Smartphone-Incredible/dp/B0BZFTD59P", "details": "30-day money back guarantee" },
+        { "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6537/6537095_sd.jpg", "vendor": "Best Buy", "price": 799, "link": "https://www.bestbuy.com/site/motorola-edge-40-pro", "details": "Available for store pickup" },
+        { "imageUrl": "https://i5.walmartimages.com/asr/87f191e6-5a10-48b7-a2b9-ce7d6f21d768.4b7b79c9b729f4d6e9c381ba75acd2d6.jpeg", "vendor": "Walmart", "price": 789, "link": "https://www.walmart.com/ip/Motorola-Edge-40-Pro", "details": "2-day shipping" }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "ASUS ROG Phone 8 Pro",
+      "description": "Ultimate gaming smartphone with Snapdragon 8 Gen 3, cooling system, and gaming accessories.",
+      "minPrice": 1199,
+      "category": "Electronics",
+      "stock": 40,
+      "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/asus-rog-phone-8-pro.jpg",
+      "brand": "ASUS",
+      "rating": 4.7,
+      "reviews": 385,
+      "releaseDate": "2024-01-16",
+      "listings": [
+        { "imageUrl": "https://dlcdnwebimgs.asus.com/gain/29FB6F99-37EA-4E89-BA81-D5E9CD87F74F/w1000/h732", "vendor": "ASUS", "price": 1199, "link": "https://rog.asus.com/phones/rog-phone-8-pro-model", "details": "AeroActive Cooler X included" },
+        { "imageUrl": "https://m.media-amazon.com/images/I/71l8j+C0q2L._AC_SX679_.jpg", "vendor": "Amazon", "price": 1199, "link": "https://www.amazon.com/ASUS-Gaming-Factory-Unlocked-Android/dp/B0CS93BJKT", "details": "Gaming accessories bundle available" },
+        { "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6576/6576982_sd.jpg", "vendor": "Best Buy", "price": 1199, "link": "https://www.bestbuy.com/site/asus-rog-phone-8-pro", "details": "Gaming case included" },
+        { "imageUrl": "https://www.bhphotovideo.com/images/images2500x2500/asus_rog_phone_8_pro_smartphone_1789654.jpg", "vendor": "B&H Photo", "price": 1199, "link": "https://www.bhphotovideo.com/c/product/1789654-REG/asus_rog_phone_8_pro.html", "details": "Free expedited shipping" },
+        { "imageUrl": "https://img.ebay-dl.com/asus/rog/phone8pro.jpg", "vendor": "eBay", "price": 1149, "link": "https://www.ebay.com/itm/asus-rog-phone-8-pro-new", "details": "Brand new, sealed box" },
+        { "imageUrl": "https://www.newegg.com/p/images/ASUS-ROG-Phone-8-Pro-256GB.jpg", "vendor": "Newegg", "price": 1189, "link": "https://www.newegg.com/asus-rog-phone-8-pro", "details": "Gaming bundle available" }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Oppo Find X7 Ultra",
+      "description": "Camera powerhouse with Hasselblad partnership, dual periscope zoom, and Dimensity 9300 chip.",
+      "minPrice": 1099,
+      "category": "Electronics",
+      "stock": 55,
+      "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/oppo-find-x7-ultra.jpg",
+      "brand": "Oppo",
+      "rating": 4.6,
+      "reviews": 495,
+      "releaseDate": "2024-01-08",
+      "listings": [
+        { "imageUrl": "https://image.oppo.com/content/dam/oppo/product-asset-library/find/find-x7-ultra/global/v1/assets/images-product-appearance-gray-1.png.webp", "vendor": "Oppo", "price": 1099, "link": "https://www.oppo.com/en/smartphones/series-find-x/find-x7-ultra/", "details": "Free gift package" },
+        { "imageUrl": "https://m.media-amazon.com/images/I/612WZvd30zL._AC_SX679_.jpg", "vendor": "Amazon", "price": 1079, "link": "https://www.amazon.com/OPPO-Ultra-256GB-International-Version/dp/B0CPZCT5MT", "details": "International version" },
+        { "imageUrl": "https://gizmochina.com/wp-content/uploads/2023/12/OPPO-Find-X7-Ultra-1-500x500.jpg", "vendor": "AliExpress", "price": 1049, "link": "https://www.aliexpress.com/item/oppo-find-x7-ultra", "details": "Free shipping" },
+        { "imageUrl": "https://img.ebay-dl.com/oppo/findx7ultra.jpg", "vendor": "eBay", "price": 1069, "link": "https://www.ebay.com/itm/oppo-find-x7-ultra-new-global", "details": "No import fees" }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Apple iPhone 15",
+      "description": "Apple's mainstream smartphone with A16 Bionic chip, Dynamic Island, and USB-C.",
+      "minPrice": 799,
+      "category": "Electronics",
+      "stock": 110,
+      "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-15.jpg",
+      "brand": "Apple",
+      "rating": 4.7,
+      "reviews": 2105,
+      "releaseDate": "2023-09-22",
+      "listings": [
+        { "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-finish-select-202309-6-1inch-blue?wid=5120&hei=2880&fmt=p-jpg", "vendor": "Apple Store", "price": 799, "link": "https://www.apple.com/shop/buy-iphone/iphone-15", "details": "Apple Care+ available" },
+        { "imageUrl": "https://m.media-amazon.com/images/I/71zAxGTGuaL._AC_SX679_.jpg", "vendor": "Amazon", "price": 799, "link": "https://www.amazon.com/Apple-iPhone-15-128GB-Blue/dp/B0CHX5S6Q4", "details": "Same-day delivery available" },
+        { "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6525/6525404_sd.jpg", "vendor": "Best Buy", "price": 799, "link": "https://www.bestbuy.com/site/iphone-15/", "details": "Trade-in offers available" },
+        { "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_7ec8d948-6b68-41ab-bc2a-28598d78196e", "vendor": "Target", "price": 799, "link": "https://www.target.com/p/apple-iphone-15", "details": "Target Circle rewards" },
+        { "imageUrl": "https://i5.walmartimages.com/asr/3f40b4bd-9502-4d1e-9651-629b172dc0e1.df9c8785086cbabf5baff0291ae175b6.jpeg", "vendor": "Walmart", "price": 799, "link": "https://www.walmart.com/ip/Apple-iPhone-15", "details": "Protection plan available" },
+        { "imageUrl": "https://att.com/scmsassets/global/devices/phones/apple/apple-iphone-15/carousel/blue/blue-1.png", "vendor": "AT&T", "price": 799, "link": "https://www.att.com/buy/phones/apple-iphone-15.html", "details": "Monthly payment options" },
+        { "imageUrl": "https://ss73.vzw.com/is/image/VerizonWireless/apple-iphone-15-blue-fall2023-a", "vendor": "Verizon", "price": 799, "link": "https://www.verizon.com/smartphones/apple-iphone-15/", "details": "Save with unlimited plans" }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Samsung Galaxy S24",
+      "description": "Compact flagship with Galaxy AI features, Exynos 2400 chip, and vibrant display.",
+      "minPrice": 799,
+      "category": "Electronics",
+      "stock": 95,
+      "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s24-5g.jpg",
+      "brand": "Samsung",
+      "rating": 4.6,
+      "reviews": 1540,
+      "releaseDate": "2024-01-31",
+      "listings": [
+        { "imageUrl": "https://image-us.samsung.com/us/smartphones/galaxy-s24/images/gallery/onyx-black/FLRC-214-S24-Onyx-Black-01-PDP-GALLERY-1600x1200.jpg", "vendor": "Samsung", "price": 799, "link": "https://www.samsung.com/us/smartphones/galaxy-s24/", "details": "Samsung Care+ available" },
+        { "imageUrl": "https://m.media-amazon.com/images/I/71bXlGfQpHL._AC_SX679_.jpg", "vendor": "Amazon", "price": 799, "link": "https://www.amazon.com/Samsung-Galaxy-S24-Smartphone-Unlocked/dp/B0CQK7MVBS", "details": "Free shipping" },
+        { "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6584/6584757_sd.jpg", "vendor": "Best Buy", "price": 799, "link": "https://www.bestbuy.com/site/samsung-galaxy-s24", "details": "Free Galaxy Buds" },
+        { "imageUrl": "https://i5.walmartimages.com/asr/72c4cc29-fd9f-44c5-a81a-65ce8d9cc600.0fc7e98f9dbd6b58378c6bed43c15fad.jpeg", "vendor": "Walmart", "price": 799, "link": "https://www.walmart.com/ip/Samsung-Galaxy-S24", "details": "Walmart Protection" },
+        { "imageUrl": "https://att.com/scmsassets/global/devices/phones/samsung/samsung-galaxy-s24/carousel/onyx-black/onyx-black-1.png", "vendor": "AT&T", "price": 799, "link": "https://www.att.com/buy/phones/samsung-galaxy-s24", "details": "Trade-in savings" },
+        { "imageUrl": "https://ss73.vzw.com/is/image/VerizonWireless/samsung-galaxy-s24-5g-black-01", "vendor": "Verizon", "price": 799, "link": "https://www.verizon.com/smartphones/samsung-galaxy-s24/", "details": "Free 5G access" },
+        { "imageUrl": "https://cdn.tmobile.com/content/dam/t-mobile/en-p/cell-phones/samsung/Samsung-Galaxy-S24/Black/Samsung-Galaxy-S24-Black-frontimage.png", "vendor": "T-Mobile", "price": 799, "link": "https://www.t-mobile.com/cell-phone/samsung-galaxy-s24", "details": "Free SIM card" }
+      ]
+    }
+   ]
